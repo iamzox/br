@@ -1,0 +1,35 @@
+{
+    "providerName": "M3U.CL - Rewind TV",
+    "lastUpdated": "1987-08-17T00:00:00+02:00",
+    "language": "es",
+    "liveFeeds": [
+        {
+   "id":"123",
+   "title":"Rewind TV",
+   "content":{
+  "dateAdded": "2019-11-11T22:21:37+00:00",
+  "videos": [
+    {
+         "url": "https://5cf4a2c2512a2.streamlock.net:443/rewintv/rewintv/playlist.m3u8",
+         "quality": "HD",
+         "videoType": "HLS"
+      }
+   ],
+   "duration": 0,
+   "captions": [],
+   "adBreaks": ["00:15:00", "00:30:00", "00:45:00"],
+   "language": "es",
+  "trickPlayFiles": []
+},
+   "thumbnail":"http://www.m3u.cl/logo/101700_Rewind_TV.png",
+   "brandedThumbnail":"http://www.m3u.cl/logo/101700_Rewind_TV.png",
+   "shortDescription":"Rewind TV",
+   "longDescription":"Rewind TV",
+   "tags":[
+      "linear",
+      "music",
+      "chile"
+   ]
+    }
+    ]
+}
