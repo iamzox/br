@@ -1,0 +1,35 @@
+{
+    "providerName": "ZOXL - ZOX",
+    "lastUpdated": "1987-08-17T00:00:00+02:00",
+    "language": "es",
+    "liveFeeds": [
+        {
+   "id":"123",
+   "title":"zox",
+   "content":{
+  "dateAdded": "2019-11-11T22:21:37+00:00",
+  "videos": [
+    {
+         "url": "http://dragoniptv.club:8080/get.php?username=casarafa&password=casarafa12&type=m3u&output=ts",
+         "quality": "HD",
+         "videoType": "HLS"
+      }
+   ],
+   "duration": 0,
+   "captions": [],
+   "adBreaks": ["00:15:00", "00:30:00", "00:45:00"],
+   "language": "es",
+  "trickPlayFiles": []
+},
+   "thumbnail":"https://images.unsplash.com/photo-1580247817119-c6cb496270a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+   "brandedThumbnail":"https://images.unsplash.com/photo-1580247817119-c6cb496270a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+   "shortDescription":"zox",
+   "longDescription":"zox",
+   "tags":[
+      "linear",
+      "music",
+      "chile"
+   ]
+    }
+    ]
+}
